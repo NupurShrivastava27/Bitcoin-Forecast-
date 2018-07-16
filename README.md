@@ -16,3 +16,4 @@ Time Series decomposition:
 
 
 This graph is more interactive, depicting the next 3-month bitcoin market price prediction.
+[https://github.com/NupurShrivastava27/Bitcoin-Forecast-/issues/1]
